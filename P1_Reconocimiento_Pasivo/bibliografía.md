@@ -67,6 +67,38 @@ A continuación se recogen las fuentes utilizadas para la obtención de informac
   Disponible en: https://www.ttrdata.com/es/entity/AENA/3154/
     - Datos de contacto oficiales y perfil corporativo.
 
+## Fuentes sobre presencia en redes sociales
+
+- Aena. "Perfil oficial en X (Twitter) @aena". Consulta realizada en marzo de 2026.  
+  Disponible en: https://nitter.net/aena
+
+- TTR Data. "Aena - Perfil de entidad". Última actualización: 26 de febrero de 2026.  
+  Disponible en: https://www.ttrdata.com/es/entity/AENA/3154/
+
+- Aena. "Aena Universum - Términos de Uso". Portal oficial de la red social propia.  
+  Disponible en: https://universum.aena.es/formacion?tab=cursos
+
+- URLScan.io. "universum.aena.es - Información de dominio". Agosto 2025.  
+  Disponible en: https://urlscan.io/domain/universum.aena.es
+
+- Aena Brasil. "Perfil oficial en LinkedIn". Consulta realizada en marzo de 2026.  
+  Disponible en: https://www.linkedin.com/company/aena-brasil/
+
+- Aena Brasil. "Portal oficial - Passageiros". Consulta realizada en marzo de 2026.  
+  Disponible en: https://www.aenabrasil.com.br/
+
+- London Luton Airport. "Perfil oficial". Consulta realizada en marzo de 2026.  
+  Disponible en: https://www.london-luton.co.uk/
+
+- Parsers VC. "London Luton Airport – Funding, Valuation, Investors, News". Octubre 2025.  
+  Disponible en: https://parsers.vc/startup/london-luton.co.uk/
+
+- Luton Today. "London Luton Airport welcomes 'Race Across the World' winners for exclusive terminal tour". Septiembre 2024.  
+  Disponible en: https://www.lutontoday.co.uk/business/london-luton-airport-welcomes-race-across-the-world-winners-for-exclusive-terminal-tour-4787755
+
+- Economía Digital. "Aena cerrará las cuentas de Twitter que perjudiquen su imagen". Abril 2015.  
+  Disponible en: https://www.economiadigital.es/tendenciashoy/destinos/aena-cerrara-las-cuentas-de-twitter-que-perjudiquen-su-imagen_12168_102.html
+
 ## Descripción técnica
 
 La información recopilada proviene exclusivamente de fuentes públicas mediante técnicas de reconocimiento pasivo (OSINT), sin interacción directa con los sistemas objetivo.
