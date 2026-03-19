@@ -37,6 +37,36 @@ A continuación se recogen las fuentes utilizadas para la obtención de informac
 - PowerDMARC. ¿Qué es un registro PTR y por qué es importante? PowerDMARC.  
   Disponible en: https://powerdmarc.com/es/what-is-a-dns-ptr-record/
 
+## Fuentes sobre el modelo de negocio de AENA
+
+- Xataka. "Cada vez recurrimos más a las salas VIP para matar las esperas en los aeropuertos. Y eso está haciendo de oro a Aena". Publicado el 7 de enero de 2026.  
+  Disponible en: https://www.xataka.com/empresas-y-economia/esto-que-gana-aena-detalle-ha-convertido-impaciencia-negocio-que-vale-152-millones
+    - Información detallada sobre el desglose de ingresos por segmentos (aeronáuticos, comerciales, inmobiliarios e internacional) y datos de pasajeros 2024.
+
+- Investing.com Brasil. "Acionistas Aena". Datos actualizados a marzo de 2026.  
+  Disponible en: https://br.investing.com/equities/aena-aeropuertos-sa-ownership
+    - Estructura accionarial con participación mayoritaria de ENAIRE (51%) y principales accionistas institucionales.
+
+- Forbes España. "Aena cierra un 2025 récord: gana 2.136 millones y acelera su expansión internacional". Publicado el 25 de febrero de 2026.  
+  Disponible en: https://forbes.es/forbestravel/880072/aena-cierra-un-2025-record-gana-2-136-millones-y-acelera-su-expansion-internacional/
+    - Resultados financieros del ejercicio 2025 y actualización de la expansión internacional.
+
+- Santalucía Asset Management. "Aena: líder aeroportuario con impulso regulatorio y comercial en España". Publicado el 8 de mayo de 2025.  
+  Disponible en: https://www.santaluciaam.es/escuela-de-inversion/equipo-de-inversion-santaluciaam/invertir-en-aena/
+    - Descripción del modelo de negocio y diferenciación entre actividad regulada y comercial.
+
+- MarketScreener España. "Aena S M E S A : Cuentas anuales consolidadas, informe de gestión consolidado e informe de auditoría correspondientes al ejercicio 2024". Publicado el 26 de febrero de 2025.  
+  Disponible en: https://es.marketscreener.com/cotizacion/accion/AENA-S-M-E-S-A-20798509/noticia/Aena-S-M-E-S-A-Cuentas-anuales-consolidadas-informe-de-gesti-n-consolidado-e-informe-de-auditor-49166049/
+    - Porcentajes oficiales de distribución de ingresos por segmentos de negocio.
+
+- boerse.de. "Aena SME Management | Profil | Unternehmen". Datos consultados en marzo de 2026.  
+  Disponible en: https://www.boerse.de/unternehmensprofil/Aena-SME-Aktie/ES0105046017
+    - Confirmación de estructura accionarial (ENAIRE 51%, Freefloat 49%) y datos de contacto.
+
+- TTR Data. "Aena - Perfil de entidad". Última actualización: 26 de febrero de 2026.  
+  Disponible en: https://www.ttrdata.com/es/entity/AENA/3154/
+    - Datos de contacto oficiales y perfil corporativo.
+
 ## Descripción técnica
 
 La información recopilada proviene exclusivamente de fuentes públicas mediante técnicas de reconocimiento pasivo (OSINT), sin interacción directa con los sistemas objetivo.
