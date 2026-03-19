@@ -15,15 +15,27 @@ A continuación se recogen las fuentes utilizadas para la obtención de informac
 
 - Shodan. Motor de búsqueda de dispositivos conectados a Internet.  
   Disponible en: https://www.shodan.io/
+    - Búsqueda realizada: "AENA"
+    - Búsqueda realizada: "aena.es"
 
 - RIPE Database. Base de datos pública de asignaciones de direcciones IP en Europa.  
   Disponible en: https://www.ripe.net/
-    - Dominio analizado: aena.com  
-    - Dominio analizado: aena.es  
+    - Consulta realizada: "AENA"
 
 - crt.sh. Plataforma de búsqueda de certificados digitales.  
   Disponible en: https://crt.sh/
+    - Búsqueda realizada: "AENA"
 
+## Documentación técnica de referencia
+
+- Cloudflare. ¿Qué es un registro TXT de DNS? Cloudflare Learning.  
+  Disponible en: https://www.cloudflare.com/es-es/learning/dns/dns-records/dns-txt-record/
+
+- Cloudflare. ¿Qué es un registro CNAME de DNS? Cloudflare Learning.  
+  Disponible en: https://www.cloudflare.com/es-es/learning/dns/dns-records/dns-cname-record/
+
+- PowerDMARC. ¿Qué es un registro PTR y por qué es importante? PowerDMARC.  
+  Disponible en: https://powerdmarc.com/es/what-is-a-dns-ptr-record/
 
 ## Descripción técnica
 
